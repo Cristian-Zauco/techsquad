@@ -1,0 +1,1 @@
+Esta carpeta es para almacenar la documentacion (Links, folders, archivos) que nos ayudaran a desarrollar el proyecto. 
